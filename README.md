@@ -1,1 +1,2 @@
-created my portfolio
+This is my first project
+My Portfolio
